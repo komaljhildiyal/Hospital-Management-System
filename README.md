@@ -64,6 +64,10 @@ A console-based Hospital Management System written in C, supporting three user r
     
 
 📅 Doctor Portal (docr.c)
+
     Set and store availability (day + time slot) to availability.txt
+    
     View all doctor availability entries
+    
     View appointments filtered by doctor name from appointments.txt
+    
